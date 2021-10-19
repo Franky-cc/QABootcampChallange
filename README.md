@@ -4,9 +4,9 @@ QA Automation Bootcamp Challange
 ## PRE-REQUISITES in case it's the first time to use testcafe
 Before starting, ensure that *Node.js* (version 8 or newer), *npm* and *testcafe* are installed on your computer.
 - Use the following line to install *npm*
-~npm install -g npm
+~ npm install -g npm
 - Use the following line to install *testcafe* globally
-- ~npm install -g testcafe
+~ npm install -g testcafe
 
 ## Now we can start
 Once you download the project, open your code editor and initiallize the project, here you can setup the proyect name and description:
