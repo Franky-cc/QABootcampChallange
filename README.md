@@ -22,4 +22,4 @@ Install the html reporter
 ~ npm install testcafe-reporter-html
 
 Now you can run your test as follow replacing the *testName* with the name of your test files
-~ npm run test
+~ npm test

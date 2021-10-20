@@ -1,0 +1,16 @@
+{
+  "name": "qaautomationbootcamp",
+  "version": "1.0.0",
+  "description": "Bootcamp challange",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe Chrome,EDGE,FIREFOX ./page_model/tests -r html:reports/Challange.html -s takeOnFails=true"
+  },
+  "author": "Francisca Chulim",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "testcafe": "^1.16.1",
+    "testcafe-reporter-html": "^1.4.6"
+  }
+}
